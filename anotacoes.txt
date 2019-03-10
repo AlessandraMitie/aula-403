@@ -1,0 +1,17 @@
+toda vez que criar a rota, dar um nome (deve ser o mesmo nome da view)
+    - para chamar no html
+
+uma função deve receber um request
+
+
+
+pergunta = Pergunta.objects.get()
+        -> vai retornar uma pergunta
+        -> Pergunta é a model, é a tabela
+        -> objects
+
+        ver template, ver url, ver view
+
+POST -> é o método que vai pegar os dados e enviar para o back
+
+o action do form é para onde vai as informações
